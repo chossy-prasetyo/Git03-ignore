@@ -1,0 +1,17 @@
+Tulis file atau folder yang ingin diabaikan untuk dipush ke github
+
+- File, misal:
+config.txt
+...
+
+- Folder, misal:
+data/
+...
+
+- Generalisasi file2 tertentu, misal:
+*.exe
+...
+
+Contoh gitignore:
+- github.com/github/gitignore
+- gitignore.io
